@@ -37,4 +37,4 @@ The medium school size category (1000-2000) where Thomas High School lies showed
 
 Scores by School Type? 
 
-Since Thomas High is a Charter school the updated scores on the 9th graders did affect the Charter schools' average math and reading scores along with the math, reading and overall passing percentage. 
+Since Thomas High is a Charter school the updated scores on the 9th graders did affect the Charter schools' math, reading and overall passing percentage. 
